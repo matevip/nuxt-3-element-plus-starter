@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "serve": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0",
+    "nuxt-windicss": "^2.5.5",
+    "vite": "^3.2.4"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.10",
+    "@pinia/nuxt": "^0.4.5",
+    "add": "^2.0.6",
+    "element-plus": "^2.2.25",
+    "yarn": "^1.22.19"
+  }
+}
