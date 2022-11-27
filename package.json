@@ -1,5 +1,11 @@
 {
-  "private": true,
+  "name": "nuxt3-element-plus-starter",
+  "version": "1.0.130",
+  "author": {
+    "name": "matevip",
+    "email": "7333791@qq.com",
+    "url": "https://mate.vip"
+  },
   "scripts": {
     "build": "nuxt build",
     "serve": "nuxt dev",
