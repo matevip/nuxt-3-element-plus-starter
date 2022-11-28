@@ -13,10 +13,14 @@ UI | 演示地址
 ---|---
 Element Plus 集成 | https://nuxt-3-element-plus-starter.vercel.app
 Ant Design Vue 集成 | https://nuxt-3-ant-design-vue-starter.vercel.app
+Arco Design Vue 集成 | https://nuxt-3-arco-design-vue-starter.vercel.app
 
-## Ant Design Vue集成nuxt脚手架
-
-https://github.com/matevip/nuxt-3-ant-design-vue-starter
+## 其他集成nuxt脚手架
+UI | Github地址
+---|---
+Element Plus 集成 | https://github.com/matevip/nuxt-3-element-plus-starter
+Ant Design Vue 集成 | https://github.com/matevip/nuxt-3-ant-design-vue-starter
+Arco Design Vue 集成 | https://github.com/matevip/nuxt-3-arco-design-vue-starter
 
 ## Setup
 
